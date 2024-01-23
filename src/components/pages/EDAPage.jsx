@@ -2,7 +2,7 @@ import React from "react";
 
 function EDAPage() {
   return (
-    <div>
+    <div className="text-white">
       <h2>
         <p>
           <span>

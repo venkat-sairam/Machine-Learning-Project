@@ -2,7 +2,7 @@ import React from "react";
 
 function IntroductionPage() {
   return (
-    <div className="pt-14  shadow-md  rounded-xl m-6 text-justify">
+    <div className="pt-14  shadow-md text-white  rounded-xl m-6 text-justify">
       <h2>
         <p>
           <span>
